@@ -3,5 +3,19 @@
 	
 }
 .bgjumbo{
-	background: #d395f9;
+	background-image: url("steve-johnson-645639-unsplash.jpg") ;
+	/*background: rgba(211, 149, 249, 0.1);*/
+	
+	
+}
+
+.box{
+	/*margin: 30px;*/
+  background-color: #ffffff;
+  /*border: 1px solid black;*/
+  opacity: 0.8;
+}
+
+.butmar{
+	margin-left: 170px;
 }
