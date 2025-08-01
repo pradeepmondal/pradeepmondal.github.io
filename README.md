@@ -14,23 +14,23 @@ I am a Data Science undergrad at IIT Madras. My experience spans from enhancing 
 
 * **Familiar With:** TypeScript, C/C++, Android (Java), LaTeX
 
-## Experience
+## 💼 Experience
 
 ### **Teaching Assistant** | IIT Madras
 
-June 2025 - Present | Chennai, IN
+June 2025 - Present - Chennai, IN
 
 * Serving as a TA for the Modern Application Development II (MAD II) course, assisting students with coursework and projects.
 
 ### **Generative AI Engineer** | Scale AI
 
-Sep 2023 - May 2025 | San Francisco, CA (Remote Freelance)
+Sep 2023 - May 2025 - San Francisco, CA (Remote Freelance)
 
 * Improved the coding capabilities of various large language models using Reinforcement Learning from Human Feedback (RLHF) techniques.
 
 ### **Software Engineer (Full-Stack)** | Laper App
 
-Mar 2023 - Nov 2023 | Ranchi, IN (Part-Time)
+Mar 2023 - Nov 2023 - Ranchi, IN (Part-Time)
 
 * Architected and developed the complete backend for the Laper Android and web applications using Node.js, Express.js, and MongoDB.
 
@@ -50,7 +50,7 @@ Mar 2023 - Nov 2023 | Ranchi, IN (Part-Time)
 
 *A real-time, multiplayer web application simulating a complex lift system.*
 
-## Education
+## 🎓 Education
 
 ### **B.S. in Data Science and Applications**
 
@@ -62,4 +62,4 @@ Mar 2023 - Nov 2023 | Ranchi, IN (Part-Time)
 
 ### **Advanced Learning Algorithms**
 
-* Stanford Online | DeepLearning.AI
+* Stanford Online - DeepLearning.AI
