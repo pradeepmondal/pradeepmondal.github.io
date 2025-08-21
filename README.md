@@ -2,6 +2,20 @@
 
 I am a Data Science undergrad at IIT Madras. My experience spans from enhancing Generative AI models at Scale AI to full-stack development and teaching assistance. I thrive on solving complex problems and continuously learning new technologies.
 
+## 🔗 Connect with me:
+<a href="https://www.linkedin.com/in/impradeepmondal" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@PradeepMondal" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/ppmtwts" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+</a>
+
+
 ## 🛠️ Skills & Technologies
 
 * **Programming & Web:** JavaScript, Python, ReactJS, NodeJS, ExpressJS, CSS, Tailwind CSS, HTML
