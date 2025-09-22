@@ -32,7 +32,7 @@ I am a Data Science undergrad at IIT Madras. My experience spans from enhancing 
 
 ### **Teaching Assistant** | IIT Madras
 
-June 2025 - Present - Chennai, IN
+June 2025 - Sep 2025 - Chennai, IN
 
 * Serving as a TA for the Modern Application Development II (MAD II) course, assisting students with coursework and projects.
 
