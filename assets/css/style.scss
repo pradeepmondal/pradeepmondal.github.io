@@ -1,0 +1,29 @@
+---
+---
+
+/* Make tables span the full width of the content area */
+table {
+  width: 100%;
+  display: table !important; /* Overrides the default block display */
+  table-layout: auto;
+}
+
+/* Prevent the first column (Project Names) from wrapping so they stay on one line */
+table th:first-child, 
+table td:first-child {
+  white-space: nowrap;
+  min-width: 200px; /* Adjust this if your project names are longer */
+}
+
+/* Give the Description column plenty of breathing room */
+table th:last-child, 
+table td:last-child {
+  width: 100%;
+  line-height: 1.6;
+}
+
+/* Ensure shields and badges don't get squished */
+img {
+  max-width: 100%;
+  height: auto;
+}
