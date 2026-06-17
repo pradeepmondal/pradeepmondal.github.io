@@ -15,18 +15,21 @@
 <br>
 
 ### **AI & Agentic Workflow Projects**  
+
 | Project | Description |  
 |---------|-------------|  
 | [TDS Solver](https://github.com/pradeepmondal/tds-solver) | LLM-powered agent that solves TDS course assignments via API — scored a perfect 20/20 on evaluation. The projects has 15 forks and 4 stars on GitHub. |  
 | [LLM-Based Automation Agent](https://github.com/pradeepmondal/llm-based-automation-agent) | Automation agent built with LLMs for intelligent task execution. |  
 
 ### **Data Science & ML Projects**  
+
 | Project | Description |  
 |---------|-------------|  
 | [Engage2Value: From Clicks to Conversions](https://github.com/pradeepmondal/Engage2Value-From-Clicks-to-Conversions) | Kaggle competition — top 200 out of 1790 submissions. Predicted purchase value from engagement features. |  
 | [PowerPlay Analysis](https://github.com/pradeepmondal/PowerPlayAnalysis) | Data-driven cricket analytics using raw Python and Statistics. |  
 
 ### **Full-Stack Web Development Projects**  
+
 | Project | Description |  
 |---------|-------------|  
 | [Pro Services](https://github.com/pradeepmondal/Pro-Services) | Platform connecting professionals to customers — built with VueJS, Flask, SQLite, Redis & Celery. |  
@@ -35,6 +38,7 @@
 | [Laper Web App](https://github.com/pradeepmondal/laper-web-app) | Full-stack web application for the Laper platform. |  
 
 ### **Other Notable Contributions**  
+
 | Project | Description |  
 |---------|-------------|  
 | [VideoJS Seekbar Segmentation](https://github.com/pradeepmondal/videojs-seekbar-segmentation) | Custom seekbar segmentation for the VideoJS player. |  
