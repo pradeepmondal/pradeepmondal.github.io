@@ -1,18 +1,20 @@
 ---
 ---
+/* This line brings back your chosen remote theme's styling */
+@import "{{ site.theme }}";
 
 /* Make tables span the full width of the content area */
 table {
   width: 100%;
-  display: table !important; /* Overrides the default block display */
+  display: table !important; 
   table-layout: auto;
 }
 
-/* Prevent the first column (Project Names) from wrapping so they stay on one line */
+/* Prevent the first column (Project Names) from wrapping */
 table th:first-child, 
 table td:first-child {
   white-space: nowrap;
-  min-width: 200px; /* Adjust this if your project names are longer */
+  min-width: 200px; 
 }
 
 /* Give the Description column plenty of breathing room */
